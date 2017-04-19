@@ -8,10 +8,8 @@
 .idea/**/tasks.xml
 .idea/dictionaries
 
-.idea/
-gradle/
-gradle/wrapper/gradle-wrapper.jar
 # Gradle:
+.idea/
 .idea/**/gradle.xml
 .idea/**/libraries
 

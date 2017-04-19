@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runescape-merchant.iml" filepath="$PROJECT_DIR$/.idea/modules/runescape-merchant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runescape-merchant_main.iml" filepath="$PROJECT_DIR$/.idea/modules/runescape-merchant_main.iml" group="runescape-merchant" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/runescape-merchant_test.iml" filepath="$PROJECT_DIR$/.idea/modules/runescape-merchant_test.iml" group="runescape-merchant" />
+    </modules>
+  </component>
+</project>
